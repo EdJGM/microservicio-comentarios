@@ -16,3 +16,6 @@ Este proyecto es un microservicio de comentarios construido con FastAPI y MongoD
    cd <NOMBRE_DEL_REPOSITORIO>
    ```
 2. Crea un entorno virtual:
+    ```sh
+    python3 -m venv venv
+    ```
