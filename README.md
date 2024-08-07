@@ -25,7 +25,10 @@ Este proyecto es un microservicio de comentarios construido con FastAPI y MongoD
    ```
 
 4. Instala las dependencias:
-
+   ```sh
+   pip install -r requirements.txt
+   ```
+   
 ## Configuración
 
 Asegúrate de que MongoDB esté corriendo en localhost en el puerto 27017. Puedes cambiar la configuración de la base de datos en el archivo db.py.
